@@ -45,3 +45,6 @@ Best turnout: Denver
 Vote Count: 306,055
 Percentage of total: 82.8%
 -------------------------
+
+
+As I work through this an interesting example of code to see would be how to write the candidate/county breakdown and how to write that. I will also experiment with this and try to figure it out :0
